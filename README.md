@@ -1,4 +1,4 @@
-# Cafetería S- Corte 2
+# Cafetería - Corte 2
 
 ## Integrantes
 - Alejandra León
