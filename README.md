@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Alejandra León
-- Sofia Gonzales
+- Sofia Giraldo
 
 ## Descripción
 Sistema de gestión para cafetería que permite administrar clientes, productos y ventas utilizando POO y SQLite.
